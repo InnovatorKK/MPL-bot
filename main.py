@@ -1,6 +1,6 @@
 import discord
 
-TOKEN = "MTEyOTk0NzgzNzQ3NjYzNDY1NQ.GHfjP9.MVWLa_X1jQ2GtjBHbA73nofPE-rVBrUpQoKL90"
+TOKEN = ""
 channelID = []
 
 class MyClient(discord.Client):
